@@ -11,6 +11,28 @@
     font-size: 21px;
 }
 
+.joinig-1 {
+    width: 580px;
+    margin-top: 90px;
+    margin-left: 70px;
+}
+
+.joinig-1 p {
+    color: #F4F4F4;
+}
+
+.joining-2 button {
+    padding: 13px 33px;
+    background-color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    margin-top: 100px;
+    margin-right: 70px;
+}
+
+.joining-section {
+    height: 300px;
+}
+
 footer {
     height: 400px;
     margin-top: 120px;
