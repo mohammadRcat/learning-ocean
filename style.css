@@ -36,6 +36,18 @@
     padding: 13px 33px;
 }
 
+.student-con1 h1 {
+    font-size: 46px;
+}
+
+.studentsDiv1 {
+    width: 290px
+}
+
+.student-con3 button {
+    padding: 13px 33px;
+}
+
 .joinig-1 {
     width: 580px;
     margin-top: 90px;
@@ -56,6 +68,7 @@
 
 .joining-section {
     height: 300px;
+    margin-bottom: 100px;
 }
 
 
